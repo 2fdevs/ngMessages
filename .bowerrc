@@ -1,0 +1,5 @@
+{
+    "directory": "app/bower_components",
+	"proxy":"http://jimenezr065:qd4_Iora@10.1.1.60:80",
+	"https-proxy":"http://jimenezr065:qd4_Iora@10.1.1.60:80"
+}
